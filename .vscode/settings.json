@@ -1,0 +1,16 @@
+
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ],
+    "git.ignoreLimitWarning": true
+}
+/*
+Deleted to access db functions
+
+"python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true
+
+*/
